@@ -1,7 +1,7 @@
 # newproject
 # {my first website}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### {The applicationshows my first coding}, {16th-10-2019}
+#### By **{stephen and Evans}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
