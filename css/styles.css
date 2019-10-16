@@ -1,0 +1,23 @@
+h1 {
+  color: rgb(13, 235, 205);
+  text-align: center;
+}
+h2{
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+
+}
+ul{
+    line-height: 40px;
+}
+body{
+    background-color: rgb(101, 231, 220);
+    background-image: url("https://www.rasmussen.edu/-/media/images/blogs/school-of-technology/computerprogramminghard_banner.jpg?la=en&hash=1897D131AAF9AA952B206B04C44A4969E9D644D5");
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    color: white;
+}
